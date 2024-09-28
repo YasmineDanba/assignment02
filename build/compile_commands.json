@@ -1,0 +1,68 @@
+[
+{
+  "directory": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/build",
+  "command": "C:\\Users\\Yasmine\\AppData\\Local\\Programs\\ImperativeProgramming\\mingw64\\bin\\g++.exe -DUNICODE -DWXUSINGDLL -D_UNICODE @CMakeFiles/wxCharles.dir/includes_CXX.rsp -g -std=gnu++20 -Wall -Wextra -pedantic-errors -o CMakeFiles\\wxCharles.dir\\agent.cpp.obj -c C:\\Users\\Yasmine\\Downloads\\assignment-02-mandatory-files\\assignment-02-mandatory-files\\agent.cpp",
+  "file": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/agent.cpp",
+  "output": "CMakeFiles/wxCharles.dir/agent.cpp.obj"
+},
+{
+  "directory": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/build",
+  "command": "C:\\Users\\Yasmine\\AppData\\Local\\Programs\\ImperativeProgramming\\mingw64\\bin\\g++.exe -DUNICODE -DWXUSINGDLL -D_UNICODE @CMakeFiles/wxCharles.dir/includes_CXX.rsp -g -std=gnu++20 -Wall -Wextra -pedantic-errors -o CMakeFiles\\wxCharles.dir\\framework\\app.cpp.obj -c C:\\Users\\Yasmine\\Downloads\\assignment-02-mandatory-files\\assignment-02-mandatory-files\\framework\\app.cpp",
+  "file": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/framework/app.cpp",
+  "output": "CMakeFiles/wxCharles.dir/framework/app.cpp.obj"
+},
+{
+  "directory": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/build",
+  "command": "C:\\Users\\Yasmine\\AppData\\Local\\Programs\\ImperativeProgramming\\mingw64\\bin\\g++.exe -DUNICODE -DWXUSINGDLL -D_UNICODE @CMakeFiles/wxCharles.dir/includes_CXX.rsp -g -std=gnu++20 -Wall -Wextra -pedantic-errors -o CMakeFiles\\wxCharles.dir\\framework\\assignment.cpp.obj -c C:\\Users\\Yasmine\\Downloads\\assignment-02-mandatory-files\\assignment-02-mandatory-files\\framework\\assignment.cpp",
+  "file": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/framework/assignment.cpp",
+  "output": "CMakeFiles/wxCharles.dir/framework/assignment.cpp.obj"
+},
+{
+  "directory": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/build",
+  "command": "C:\\Users\\Yasmine\\AppData\\Local\\Programs\\ImperativeProgramming\\mingw64\\bin\\g++.exe -DUNICODE -DWXUSINGDLL -D_UNICODE @CMakeFiles/wxCharles.dir/includes_CXX.rsp -g -std=gnu++20 -Wall -Wextra -pedantic-errors -o CMakeFiles\\wxCharles.dir\\framework\\charles.cpp.obj -c C:\\Users\\Yasmine\\Downloads\\assignment-02-mandatory-files\\assignment-02-mandatory-files\\framework\\charles.cpp",
+  "file": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/framework/charles.cpp",
+  "output": "CMakeFiles/wxCharles.dir/framework/charles.cpp.obj"
+},
+{
+  "directory": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/build",
+  "command": "C:\\Users\\Yasmine\\AppData\\Local\\Programs\\ImperativeProgramming\\mingw64\\bin\\g++.exe -DUNICODE -DWXUSINGDLL -D_UNICODE @CMakeFiles/wxCharles.dir/includes_CXX.rsp -g -std=gnu++20 -Wall -Wextra -pedantic-errors -o CMakeFiles\\wxCharles.dir\\framework\\freeplay_window.cpp.obj -c C:\\Users\\Yasmine\\Downloads\\assignment-02-mandatory-files\\assignment-02-mandatory-files\\framework\\freeplay_window.cpp",
+  "file": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/framework/freeplay_window.cpp",
+  "output": "CMakeFiles/wxCharles.dir/framework/freeplay_window.cpp.obj"
+},
+{
+  "directory": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/build",
+  "command": "C:\\Users\\Yasmine\\AppData\\Local\\Programs\\ImperativeProgramming\\mingw64\\bin\\g++.exe -DUNICODE -DWXUSINGDLL -D_UNICODE @CMakeFiles/wxCharles.dir/includes_CXX.rsp -g -std=gnu++20 -Wall -Wextra -pedantic-errors -o CMakeFiles\\wxCharles.dir\\framework\\scenario.cpp.obj -c C:\\Users\\Yasmine\\Downloads\\assignment-02-mandatory-files\\assignment-02-mandatory-files\\framework\\scenario.cpp",
+  "file": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/framework/scenario.cpp",
+  "output": "CMakeFiles/wxCharles.dir/framework/scenario.cpp.obj"
+},
+{
+  "directory": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/build",
+  "command": "C:\\Users\\Yasmine\\AppData\\Local\\Programs\\ImperativeProgramming\\mingw64\\bin\\g++.exe -DUNICODE -DWXUSINGDLL -D_UNICODE @CMakeFiles/wxCharles.dir/includes_CXX.rsp -g -std=gnu++20 -Wall -Wextra -pedantic-errors -o CMakeFiles\\wxCharles.dir\\framework\\simulation_window.cpp.obj -c C:\\Users\\Yasmine\\Downloads\\assignment-02-mandatory-files\\assignment-02-mandatory-files\\framework\\simulation_window.cpp",
+  "file": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/framework/simulation_window.cpp",
+  "output": "CMakeFiles/wxCharles.dir/framework/simulation_window.cpp.obj"
+},
+{
+  "directory": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/build",
+  "command": "C:\\Users\\Yasmine\\AppData\\Local\\Programs\\ImperativeProgramming\\mingw64\\bin\\g++.exe -DUNICODE -DWXUSINGDLL -D_UNICODE @CMakeFiles/wxCharles.dir/includes_CXX.rsp -g -std=gnu++20 -Wall -Wextra -pedantic-errors -o CMakeFiles\\wxCharles.dir\\framework\\trace.cpp.obj -c C:\\Users\\Yasmine\\Downloads\\assignment-02-mandatory-files\\assignment-02-mandatory-files\\framework\\trace.cpp",
+  "file": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/framework/trace.cpp",
+  "output": "CMakeFiles/wxCharles.dir/framework/trace.cpp.obj"
+},
+{
+  "directory": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/build",
+  "command": "C:\\Users\\Yasmine\\AppData\\Local\\Programs\\ImperativeProgramming\\mingw64\\bin\\g++.exe -DUNICODE -DWXUSINGDLL -D_UNICODE @CMakeFiles/wxCharles.dir/includes_CXX.rsp -g -std=gnu++20 -Wall -Wextra -pedantic-errors -o CMakeFiles\\wxCharles.dir\\framework\\trace_list_control.cpp.obj -c C:\\Users\\Yasmine\\Downloads\\assignment-02-mandatory-files\\assignment-02-mandatory-files\\framework\\trace_list_control.cpp",
+  "file": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/framework/trace_list_control.cpp",
+  "output": "CMakeFiles/wxCharles.dir/framework/trace_list_control.cpp.obj"
+},
+{
+  "directory": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/build",
+  "command": "C:\\Users\\Yasmine\\AppData\\Local\\Programs\\ImperativeProgramming\\mingw64\\bin\\g++.exe -DUNICODE -DWXUSINGDLL -D_UNICODE @CMakeFiles/wxCharles.dir/includes_CXX.rsp -g -std=gnu++20 -Wall -Wextra -pedantic-errors -o CMakeFiles\\wxCharles.dir\\framework\\world.cpp.obj -c C:\\Users\\Yasmine\\Downloads\\assignment-02-mandatory-files\\assignment-02-mandatory-files\\framework\\world.cpp",
+  "file": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/framework/world.cpp",
+  "output": "CMakeFiles/wxCharles.dir/framework/world.cpp.obj"
+},
+{
+  "directory": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/build",
+  "command": "C:\\Users\\Yasmine\\AppData\\Local\\Programs\\ImperativeProgramming\\mingw64\\bin\\g++.exe -DUNICODE -DWXUSINGDLL -D_UNICODE @CMakeFiles/wxCharles.dir/includes_CXX.rsp -g -std=gnu++20 -Wall -Wextra -pedantic-errors -o CMakeFiles\\wxCharles.dir\\framework\\world_control.cpp.obj -c C:\\Users\\Yasmine\\Downloads\\assignment-02-mandatory-files\\assignment-02-mandatory-files\\framework\\world_control.cpp",
+  "file": "C:/Users/Yasmine/Downloads/assignment-02-mandatory-files/assignment-02-mandatory-files/framework/world_control.cpp",
+  "output": "CMakeFiles/wxCharles.dir/framework/world_control.cpp.obj"
+}
+]
